@@ -1,0 +1,2 @@
+# lovescore
+praticing javascript
